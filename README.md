@@ -31,6 +31,7 @@ extend: {
 ___
 ### Work in progress
 
+- Make it a module to import over `npm` or `yarn`
 - Dynamic prop with color selection.
 - Dynamic prop with modal position `left` `right` `centre`
 - Dark // Light default themes.
